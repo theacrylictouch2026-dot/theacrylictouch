@@ -1,0 +1,25 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "shadcn/tailwind.css";
+
+
+
+@theme {
+  /* Premium Gold & Charcoal Palette */
+  --color-gold-400: #D4AF37;
+  --color-gold-500: #C5A059;
+  --color-gold-600: #A67C00;
+  --color-charcoal: #121212;
+  
+  /* Animations */
+  --animate-slow-fade: fade-in 2s ease-out;
+}
+
+@keyframes fade-in {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+.outline-text {
+  -webkit-text-stroke: 1px rgba(255, 255, 255, 0.2);
+  color: transparent;
+}
