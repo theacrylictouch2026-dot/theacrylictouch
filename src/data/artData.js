@@ -1,80 +1,80 @@
 export const ART_DATA = [
   {
     id: 1,
-    title: "Royal Wedding Hand-Painted Frame",
-    price: 3500,
+    title: "Personalised Name Frame",
+    price: 1500,
     image: "/artworks/1.jpeg",
     category: "Hand Painted Frames",
     slots: 1
   },
   {
     id: 2,
-    title: "Anniversary Gold Texture Frame",
-    price: 3200,
+    title: "Illustration Teachers Day Frame",
+    price: 1200,
     image: "/artworks/2.jpeg",
     category: "Hand Painted Frames",
     slots: 2
   },
   {
     id: 3,
-    title: "Birthday Floral Hand Art",
-    price: 2800,
+    title: "Birthday Floral Name Frame",
+    price: 1800,
     image: "/artworks/3.jpeg",
     category: "Hand Painted Frames",
     slots: 3
   },
   {
     id: 4,
-    title: "Couple Portrait Premium Frame",
-    price: 4000,
+    title: "Amethyst Theme Couple Illustration Floral Frame",
+    price: 3000,
     image: "/artworks/4.jpeg",
     category: "Hand Painted Frames",
     slots: 4
   },
   {
     id: 5,
-    title: "Eid Special Crescent Art Frame",
+    title: "Printed Couple Frame",
     price: 3000,
     image: "/artworks/5.jpeg",
-    category: "Hand Painted Frames",
+    category: "Hand Printed Frames",
     slots: 5
   },
   {
     id: 6,
-    title: "Baby Welcome Custom Frame",
-    price: 2600,
+    title: "Cinderella Theme Couple Illustration Floral Frame",
+    price: 3000,
     image: "/artworks/6.jpeg",
     category: "Hand Painted Frames",
     slots: 6
   },
   {
     id: 7,
-    title: "Luxury Marble Finish Frame",
-    price: 4200,
+    title: "Degree Illustration Frame",
+    price: 1000,
     image: "/artworks/7.jpeg",
     category: "Hand Painted Frames",
     slots: 7
   },
   {
     id: 8,
-    title: "Islamic Calligraphy Gold Frame",
+    title: "Happiness Bouquet",
     price: 3800,
     image: "/artworks/8.jpeg",
-    category: "Hand Painted Frames",
+    category: "Craft",
     slots: 8
   },
   {
     id: 9,
-    title: "Minimal Aesthetic Wall Frame",
-    price: 2400,
+    title: "Couple Wall Hoop",
+    price: 3400,
     image: "/artworks/9.jpeg",
-    category: "Hand Painted Frames",
+    category: "Wall Hoop",
     slots: 9
   },
   {
     id: 10,
-    title: "Romantic Sunset Couple Frame",
-    price: 3300,
+    title: "Illustration Frame",
+    price: 1300,
     image: "/artworks/10.jpeg",
     category: "Hand Painted Frames",
     slots: 10
@@ -89,39 +89,39 @@ export const ART_DATA = [
   },
   {
     id: 12,
-    title: "Vintage Memory Theme Frame",
-    price: 3100,
+    title: "Couple Name Frame",
+    price: 1100,
     image: "/artworks/12.jpeg",
     category: "Hand Painted Frames",
     slots: 12
   },
   {
     id: 13,
-    title: "Golden Leaf Premium Art Frame",
-    price: 3600,
+    title: "Couple Glass Art",
+    price: 2600,
     image: "/artworks/13.jpeg",
-    category: "Hand Painted Frames",
+    category: "Glass Art",
     slots: 13
   },
   {
     id: 14,
-    title: "Luxury Black & Gold Texture Frame",
-    price: 3900,
+    title: "Frozen Theme Couple Name Frame",
+    price: 1900,
     image: "/artworks/14.jpeg",
     category: "Hand Painted Frames",
     slots: 14
   },
   {
     id: 15,
-    title: "Custom Anniversary Date Frame",
-    price: 2700,
+    title: " Personalised Hamper",
+    price: 1700,
     image: "/artworks/15.jpeg",
-    category: "Hand Painted Frames",
+    category: "Hamper",
     slots: 15
   },
   {
     id: 16,
-    title: "Elegant White Theme Frame",
+    title: "Elegant Pink Theme Frame",
     price: 2500,
     image: "/artworks/16.jpeg",
     category: "Hand Painted Frames",
@@ -129,34 +129,34 @@ export const ART_DATA = [
   },
   {
     id: 17,
-    title: "Rose Gold Wedding Art Frame",
-    price: 4100,
+    title: "Baby Wall Hoop",
+    price: 2100,
     image: "/artworks/17.jpeg",
-    category: "Hand Painted Frames",
+    category: "Wall Hoop",
     slots: 17
   },
   {
     id: 18,
-    title: "Premium Couple Silhouette Frame",
+    title: "Mini Scrapbook",
     price: 3400,
     image: "/artworks/18.jpeg",
-    category: "Hand Painted Frames",
+    category: "Craft",
     slots: 18
   },
   {
     id: 19,
-    title: "Printed Birthday Special Frame",
-    price: 1500,
+    title: "Paak Panjatan Frame",
+    price: 3500,
     image: "/artworks/19.jpeg",
-    category: "Printed Frames",
+    category: "Arabic Calligraphy Frames",
     slots: 19
   },
   {
     id: 20,
-    title: "Wedding Printed Memory Frame",
+    title: "Rapunzal Theme Frame",
     price: 1800,
     image: "/artworks/20.jpeg",
-    category: "Printed Frames",
+    category: "Hand Painted Frames",
     slots: 20
   }
 ];

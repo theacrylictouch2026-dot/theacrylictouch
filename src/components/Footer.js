@@ -28,9 +28,8 @@ export default function Footer() {
           <div className="flex flex-col gap-6">
              <h4 className="text-white font-bold uppercase text-xs tracking-widest">Connect</h4>
              <div className="flex gap-4">
-                <a href="#" className="p-3 bg-white/5 rounded-full hover:bg-gold-500 hover:text-black transition-all text-zinc-400"><Instagram size={20}/></a>
-                <a href="#" className="p-3 bg-white/5 rounded-full hover:bg-gold-500 hover:text-black transition-all text-zinc-400"><Facebook size={20}/></a>
-                <a href="#" className="p-3 bg-white/5 rounded-full hover:bg-gold-500 hover:text-black transition-all text-zinc-400"><Mail size={20}/></a>
+                <a href="https://www.instagram.com/theacrylictouch?igsh=MWRpdmllYmFhcDRicg==" className="p-3 bg-white/5 rounded-full hover:bg-gold-500 hover:text-black transition-all text-zinc-400"><Instagram size={20}/></a>
+                <a href="theacrylictouch2026@gmail.com" className="p-3 bg-white/5 rounded-full hover:bg-gold-500 hover:text-black transition-all text-zinc-400"><Mail size={20}/></a>
              </div>
           </div>
         </div>

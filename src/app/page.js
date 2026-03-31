@@ -44,7 +44,7 @@ export default function Home() {
             Where every stroke tells a story of luxury. Discover curated masterpieces or join our global competition.
           </motion.p>
           <motion.div initial={{ opacity: 0, scale: 0.9 }} animate={{ opacity: 1, scale: 1 }} transition={{ duration: 0.5, delay: 0.9 }}>
-            <Link href="/dashboard">
+            <Link href="/store">
               <PremiumButton>Enter the Vault</PremiumButton>
             </Link>
           </motion.div>
@@ -137,9 +137,7 @@ export default function Home() {
             <span className="text-gold-500 font-serif italic font-light">Art Curation</span>
           </h2>
           <p className="text-zinc-400 mb-8 leading-relaxed font-light">
-            Hamara AI Assistant sirf ek chatbot nahi hai, ye ek connoisseur hai. 
-            Aapke taste aur space ke mutabiq, hum aapko suggest karte hain woh art 
-            jo aapki deewaron ki shaan ban jaye.
+            Welcome to our platform where creativity meets personalization. Explore unique handmade frames, scrapbooks, and customized gifts crafted with love to make every moment special.
           </p>
           <Link href="/store" className="group flex items-center gap-4 text-xs font-bold uppercase tracking-widest text-gold-500">
             Browse the store <span className="group-hover:translate-x-2 transition-transform underline"><ArrowRight size={16}/></span>
